@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 
 bile Tools for Java (J2ME)
+=======
+*.class
+
+# Mobile Tools for Java (J2ME)
+>>>>>>> da16014a19540b63a507d5e411265e6aec957106
 .mtj.tmp/
 
 # Package Files #
@@ -9,6 +15,9 @@ bile Tools for Java (J2ME)
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 
 data/
 build/
+=======
+>>>>>>> da16014a19540b63a507d5e411265e6aec957106
