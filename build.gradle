@@ -1,0 +1,10 @@
+repositories {
+	mavenCentral()
+}
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+
+dependencies {
+	compile 'org.elasticsearch:elasticsearch:1.4.2'
+}
